@@ -14,4 +14,5 @@ I used Material UI and SweetAlert2 and Testing with Jest.
 <img src="https://raw.githubusercontent.com/sweetalert2/sweetalert2/HEAD/assets/swal2-logo.png" alt="sweetalert2" height="40" />
 <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40" /> 
 
-<a href="https://mern-calendar-app-trassi.herokuapp.com/auth/login"><h3 align="center">Visit my App at Heroku!</h3></a>
+[Visit my App at Netlify!](https://mern-calendar-app-trassi.herokuapp.com/auth/login)
+
